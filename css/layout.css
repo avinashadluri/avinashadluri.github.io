@@ -533,43 +533,43 @@ ul#nav li.current a {
 
 
 
-#apps {
+#tweets {
   background: #fff;
   padding-top: 70px;
   padding-bottom: 30px;
   overflow: hidden;
 }
 
-#apps a,
-#apps a:visited {
+#tweets a,
+#tweets a:visited {
   color: #11ABB0;
 }
 
-#apps a:hover,
-#apps a:focus {
+#tweets a:hover,
+#tweets a:focus {
   color: #313131;
 }
 
-#apps h1 {
+#tweets h1 {
   font: 18px/24px 'opensans-bold', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
-#apps h1 span {
+#tweets h1 span {
   border-bottom: 3px solid #11ABB0;
   padding-bottom: 6px;
 }
 
-#apps h3 {
+#tweets h3 {
   font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#apps .header-col {
+#tweets .header-col {
   padding-top: 9px;
 }
 
-#apps .main-col {
+#tweets .main-col {
   padding-right: 10%;
   text-align: center;
 }
@@ -581,19 +581,19 @@ ul#nav li.current a {
   border-bottom: 1px solid #E8E8E8;
 }
 
-#apps .info {
+#tweets .info {
   font: 16px/24px 'librebaskerville-italic', serif;
   color: #6E7881;
   margin-bottom: 18px;
   margin-top: 9px;
 }
 
-#apps .info span {
+#tweets .info span {
   margin-right: 5px;
   margin-left: 5px;
 }
 
-#apps .date {
+#tweets .date {
   font: 15px/24px 'opensans-regular', sans-serif;
   margin-top: 6px;
 }
@@ -1606,6 +1606,6 @@ footer .social-links li:first-child {
 .columns .skillsDiv {
     display: inline-block;
     text-align: center;
-    padding: 0 28px 17px;
+    padding: 0 24px 17px;
     cursor: pointer;
 }
