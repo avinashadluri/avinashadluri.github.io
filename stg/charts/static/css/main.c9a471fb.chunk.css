@@ -1,0 +1,2 @@
+body,html{margin:0;padding:0;font-size:100%;box-sizing:border-box}.App{text-align:center;margin:0 auto;width:50%}.progressVisualFull{display:flex;height:15px;margin:20px 0;border-radius:50px;background-color:#ededed}.progressVisualPart{transition:width 2s}.progressVisualPart:first-child{border-top-left-radius:50px;border-bottom-left-radius:50px}.progressVisualPart:last-child{border-top-right-radius:50px;border-bottom-right-radius:50px}
+/*# sourceMappingURL=main.c9a471fb.chunk.css.map */
